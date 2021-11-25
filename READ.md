@@ -1,10 +1,13 @@
 # CS_NOTE
 W1:
+  
   安裝、註冊GitHub
 
 W2:
-  Unix
-    linux內核:
+ 
+ Unix
+    
+   linux內核:
       常用分支:
         1.Debian:新手級、易用
           版本:
@@ -16,6 +19,7 @@ W2:
         3.SUSE
           (1).SLES:openSUSE
           (2).Arch Linux
+  
   指令
     cd:變換目錄
     pwd:顯示幕前的目錄
@@ -36,6 +40,7 @@ W2:
     1.user(owner)
     2.group:將帳號歸類，有助於類似專案開發、每個使用者均可加入多個群組
     3.others
+  
   更改使用者權限:
     1.ls-l:查看每個檔案跟目錄的擁有者與群組
     2.chown:修改檔案跟目錄的擁有者與目錄
@@ -43,6 +48,7 @@ W2:
     4.mode:許可權設定字串
 
 W3
+  
   壓縮檔案:
     概念:
       1.將閒置空間釋出
@@ -56,6 +62,7 @@ W3
       1.gzip
       2.xz
       3.tar.gz
+  
   OSI、TCP/IP
     OSI:
       1.實體層
